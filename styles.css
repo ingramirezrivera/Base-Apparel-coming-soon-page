@@ -112,6 +112,7 @@ body {
     }
     .container__logo {
         width: 160px;
+        margin-left: 160px;
     }
     .container__picture{
         content: url('./images/hero-desktop.jpg');
@@ -120,7 +121,7 @@ body {
     }
     .container__content {
         width: 444px;
-        margin: 125px 0 0 36px;
+        margin: 125px 0 0 160px;
     }
     .container__content__title {
         text-align: left;
